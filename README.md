@@ -25,4 +25,4 @@ Open a command window under project directory and run:
 
 ## Viewing the reports
 
-Both of the commands provided above will produce a test report in the `results` directory. Go take a look!
+Both of the commands provided above will produce a test report in the `results` directory. Please take a look!
