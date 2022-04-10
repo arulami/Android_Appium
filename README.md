@@ -23,8 +23,20 @@ https://www.python.org/downloads/
 
 pip install robotframework  
 
+## Install Appium python client, appium server 
+
+Installation details below:
+
+https://appium.io/
+
+
+## Install Android studio and configure required emulators
+
+Install required SDK tools
+
 
 ## To execute tests: 
+Start appium server
 
 Open a command window under project directory and run:
 
