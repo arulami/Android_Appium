@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation  These test cases used for checkking Login Options by using WordPress Android app
+Documentation  These test cases used for checking Login Options by using WordPress Android app
 
 Resource  ../Resources/Common.robot  # necessary for Setup & Teardown
 Resource  ../Resources/WordpressApp.robot  # necessary for lower level keywords in test cases
