@@ -5,6 +5,7 @@ Robot Framework is a generic open source automation framework written in Python.
 It has AppiumLibrary and it can be used for Automating Mobile apps native, hybrid for Android/iOS
 
 ## RobotFramework Reference
+
   https://robotframework.org/
 
 ## Get the code
@@ -13,10 +14,9 @@ Git:
 
     git clone https://github.com/arulami/Android_Appium.git
     
-## Install Python 3 if not present in your system
-https://www.python.org/downloads/
+## Install Python3 if not present in your system
 
-pip install robotframework  
+https://www.python.org/downloads/
 
    
 ## Install RobotFramework 
